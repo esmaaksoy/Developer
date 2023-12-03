@@ -54,13 +54,7 @@ button:hover{
     box-shadow: 0 0 25px 15px $Pastele-Presentation-1;
 }
 
-@media screen and (max-width:992px){
-    .container{
-        .card{
-            width: 50%;
-          }
-        }
-    }
+
    
   @media screen and (max-width:768px){
     .container{
@@ -69,4 +63,10 @@ button:hover{
           }
         }
     }
-  
+    @media screen and (max-width:992px){
+        .container{
+            .card{
+                width: 50%;
+              }
+            }
+        }
