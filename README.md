@@ -3,7 +3,7 @@ This project is a simple website created using React, sass.
 ## Screenshots
 ![Project snapshot](./Developer.png) 
 
-[Developer Live Page]()
+[Developer Live Page](https://comments-developer.netlify.app/)
 ## Description
 My second product list  page with mock Apı
 In the project directory, you can run:
