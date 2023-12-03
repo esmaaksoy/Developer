@@ -16,7 +16,7 @@ const Footer = () => {
           <i className="fa-brands fa-instagram"></i>
         </a>
       </div>
-      <p>Copyright by Clarusway {new Date().getFullYear()}</p>
+      <p>Copyright by Comments {new Date().getFullYear()}</p>
     </footer>
   );
 };
