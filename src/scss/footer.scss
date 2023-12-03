@@ -1,0 +1,21 @@
+@import "./variable";
+footer{
+    padding: 2rem;
+    background-color: $Pastele-Presentation-2;
+    font-family: cursive;
+    margin-top: 2rem;
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        i{
+            font-size: 2rem;
+            color: black;
+            &:hover{
+                transition: all 1s;
+                color: $Pastele-Presentation-1;
+            }
+        }
+    }
+}

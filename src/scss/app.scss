@@ -1,0 +1,11 @@
+@import "./reset";
+@import "./variable";
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+body{
+    font-family: 'Nova Square', sans-serif;
+    text-align: center;
+    background-color: $Pastele-Presentation-5;
+}
+p{
+    font-size: 1.1rem;
+}
